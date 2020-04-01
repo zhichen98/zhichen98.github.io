@@ -85,7 +85,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 ------------------------- | -------------------------
 2019-2020 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">University of California,Berkeley</font><br/><font style="font-size:0.5em;font-style:italic;">Master of Science,Electrical Engineering and Computer Sciences</font>
 2016-2019 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">University of California,Berkeley</font><br/><font style="font-size:0.5em;font-style:italic;">Bachelor of Science,Electrical Engineering and Computer Sciences</font>
-2015-2015 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Duke University</font><br/><font style="font-size:0.5em;font-style:italic;">Economics</font>
+2015-2015 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Duke University</font><br/><font style="font-size:0.5em;font-style:italic;">Economics: Game Theory</font>
 
 <br/>
 ### Publications
