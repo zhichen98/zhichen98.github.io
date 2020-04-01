@@ -2,7 +2,7 @@
 
 I am a graduating M.S. student in Electrical Engineering and Computer Sciences at UC Berkeley. I obtained my B.S. in EECS from UC Berkeley in 2019.
 
-Advised by Prof. Dawn Song, my research interests lie in the fields of deep learning and AI security. I have been fortunate to work with Dr. Min Du and Dr. Ruxi Jia at the Center for Long-Term Cybersecurity, UC Berkeley. My current M.S. project focuses on noisy dataset stochastic gradient descent.
+Advised by Prof. Dawn Song, my research interests lie in the fields of deep learning and AI security. I have been fortunate to work with Dr. Min Du and Dr. Ruoxi Jia at the Center for Long-Term Cybersecurity, UC Berkeley. My current M.S. project focuses on noisy dataset stochastic gradient descent.
 
 I am also an admitted Ph.D. student in Computer Science at University of Illinois at Urbana-Champaign for Fall 2020. <br/>
 
