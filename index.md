@@ -126,5 +126,5 @@ May 2016 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-
 ### Skills
 
 ------------------------- | -------------------------
-Languages | C/C++, Python, Java, SQL, Ruby
+Languages | C/C++, Python, Java, SQL, Ruby, Ros
 Frameworks | Pytorch, Tensorflow, Rails, Cucumber
