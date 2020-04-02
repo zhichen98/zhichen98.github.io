@@ -27,9 +27,11 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        <p class="view"><a href="https://www.linkedin.com/in/zhichen98">View On LinkedIn</a></p>
-        <p class="view"><a href="{{ site.github.repository_url }}">View On GitHub</a></p>
+        <p class="view">
+          <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+          <a href="https://www.linkedin.com/in/zhichen98">View On LinkedIn</a>
+          <a href="{{ site.github.repository_url }}">View On GitHub</a>
+        </p>
         {% endif %}
 
         {% if site.show_downloads %}
