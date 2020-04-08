@@ -49,7 +49,7 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 <details>
   <summary>
     <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Research Intern</font>
-    <font style="font-size:0.8em;">Alibaba Group ・ Internship</font><br/>
+    <font style="font-size:0.8em;">Alibaba DAMO Academy</font><br/>
     <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2018 - Jan 2019</font>
     <font style="font-size:0.5em;font-style:italic;">&nbsp;・&nbsp;Hangzhou, China</font>
   </summary>
