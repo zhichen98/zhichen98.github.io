@@ -13,7 +13,7 @@ I am also an admitted Ph.D. student in Computer Science at University of Illino
   <summary>
     <strong>Graduate Researcher </strong>
     Center for Long-Term Cybersecurity<br/>
-    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present&nbsp;・&nbsp;UC Berkeley</em>
+    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present&nbsp;・&nbsp;UC Berkeley</em>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
