@@ -1,3 +1,4 @@
+<link href="/public/css/bootstrap.css" rel="stylesheet"></link>
 ## About
 
 I am a graduating M.S. student in Electrical Engineering and Computer Sciences at UC Berkeley. I obtained my B.S. in EECS from UC Berkeley in 2019.
