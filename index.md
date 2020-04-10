@@ -1,5 +1,5 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
-## About
+### About
 
 I am a graduating M.S. student in Electrical Engineering and Computer Sciences at UC Berkeley. I obtained my B.S. in EECS from UC Berkeley in 2019.
 
@@ -11,10 +11,11 @@ I am also an admitted Ph.D. student in Computer Science at University of Illino
 
 <details>
   <summary>
-    <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Graduate Researcher</font>
-    <font style="font-size:0.8em;">Center for Long-Term Cybersecurity</font><br/>
-    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present</font>
-    <font style="font-size:0.5em;font-style:italic;">&nbsp;・&nbsp;UC Berkeley</font>
+    <p>
+    <strong>Graduate Researcher </strong>
+    Center for Long-Term Cybersecurity<br/>
+    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present&nbsp;・&nbsp;UC Berkeley</em>
+    </p>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
