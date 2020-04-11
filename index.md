@@ -91,7 +91,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 
 <details>
   <summary>
-    <strong>Adversarial enhancement for community detection in networks</strong>
+    <strong>Adversarial Enhancement for Community Detection in Complex Networks</strong>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019&nbsp;・&nbsp;arXiv: 1911.01670
     <a href="/data/1911.01670.pdf" class="btn btn-primary btn-xs">pdf</a>
@@ -101,7 +101,7 @@ Community detection plays a significant role in network analysis. However, it al
 
 <details>
   <summary>
-    <strong>Lifelong anomaly detection through unlearning</strong>
+    <strong>Lifelong Anomaly Detection Through Unlearning</strong>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019&nbsp;・&nbsp;Proceedings of <em>the 26th ACM Conference on Computer and Communications Security (<strong>CCS'19</strong>)</em>
     <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">pdf</a>
@@ -111,7 +111,7 @@ Anomaly detection is essential towards ensuring system security and reliability.
 
 <details>
   <summary>
-    <strong>Time-aware gradient attack on dynamic network link prediction</strong>
+    <strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019&nbsp;・&nbsp;arXiv: 1911.10561
     <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">pdf</a>
