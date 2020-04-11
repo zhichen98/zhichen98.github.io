@@ -1,5 +1,5 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
-<div id="about"></div>
+<div id="ct1"></div>
 ### About
 
 I am a graduating M.S. student in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> at <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. I obtained my B.S. in EECS from UC Berkeley in 2019.
@@ -9,7 +9,7 @@ Advised by Prof. <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.
 I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a> for Fall 2020.
 
 <br/>
-<div id="experience"></div>
+<div id="ct2"></div>
 ### Experience
 
 <details>
@@ -81,7 +81,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 </details>
 
 <br/>
-<div id="education"></div>
+<div id="ct3"></div>
 ### Education
 
 ------------------------- | -------------------------
@@ -90,7 +90,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 2015-2015 | <strong>Duke University</strong><br/>Economics: Game Theory
 
 <br/>
-<div id="publications"></div>
+<div id="ct4"></div>
 ### Publications
 
 <details>
@@ -124,7 +124,7 @@ In network link prediction, it is possible to hide a target link from being pred
 </details>
 
 <br/>
-<div id="honors"></div>
+<div id="ct5"></div>
 ### Honors&Awards
 
 ------------------------- | -------------------------
@@ -134,7 +134,7 @@ May 2017 | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
 May 2016 | <strong>Finalist</strong><br/>As a finalist, participating in the 67th Intel International Science and Engineering Fair, Phoenix, May 8-13, 2016.
 
 <br/>
-<div id="skills"></div>
+<div id="ct6"></div>
 ### Skills
 
 ------------------------- | -------------------------
