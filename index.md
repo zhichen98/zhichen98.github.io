@@ -1,6 +1,6 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
 ### About
-
+<div id="about"></div>
 I am a graduating M.S. student in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> at <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. I obtained my B.S. in EECS from UC Berkeley in 2019.
 
 Advised by Prof. <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a>, my research interests lie in the fields of deep learning and AI security. I have been fortunate to work with Dr. <a href="https://cltc.berkeley.edu/about-us/researchers/min-du/">Min Du</a> and Dr. <a href="https://cltc.berkeley.edu/about-us/researchers/ruoxi-jia/">Ruoxi Jia</a> at the Center for Long-Term Cybersecurity, UC Berkeley. My current M.S. project focuses on noisy dataset stochastic gradient descent.
@@ -9,7 +9,7 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 
 <br/>
 ### Experience
-
+<div id="experience"></div>
 <details>
   <summary>
     <strong>Graduate Researcher </strong>
@@ -80,7 +80,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 
 <br/>
 ### Education
-
+<div id="education"></div>
 ------------------------- | -------------------------
 2019-2020 | <strong>University of California, Berkeley</strong><br/>Master of Science, Electrical Engineering and Computer Sciences
 2016-2019 | <strong>University of California, Berkeley</strong><br/>Bachelor of Science, Electrical Engineering and Computer Sciences
@@ -88,7 +88,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 
 <br/>
 ### Publications
-
+<div id="publications"></div>
 <details>
   <summary>
     <strong>Adversarial Enhancement for Community Detection in Complex Networks</strong>
@@ -121,7 +121,7 @@ In network link prediction, it is possible to hide a target link from being pred
 
 <br/>
 ### Honors&Awards
-
+<div id="honors"></div>
 ------------------------- | -------------------------
 May 2019 | <strong>B.S. Honors</strong><br/>UC Berkeley
 May 2018 | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
@@ -130,7 +130,7 @@ May 2016 | <strong>Finalist</strong><br/>As a finalist, participating in the 67t
 
 <br/>
 ### Skills
-
+<div id="skills"></div>
 ------------------------- | -------------------------
 Languages | C/C++, Python, Java, SQL, Ruby, Ros
 Frameworks | Pytorch, Tensorflow, Rails, Cucumber
