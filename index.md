@@ -16,8 +16,10 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
   <summary>
     <strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.
     <br/>
+    <div>
     <div style="float:left; text-align:left">Graduate Researcher</div>
     <div style="float:right; text-align:right">Jan. 2019 - Present</div>
+    </div>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researchers Min Du and Ruoxi Jia on research projects related to deep learning and security.
@@ -52,9 +54,12 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 
 <details>
   <summary>
-    <div style="float:left; text-align:left"><strong>Alibaba DAMO Academy </strong>, Hangzhou, China.</div>
+    <strong>Alibaba DAMO Academy </strong>, Hangzhou, China.
+    <br/>
+    <div>
+    <div style="float:left; text-align:left">Research Intern</div>
     <div style="float:right; text-align:right">Dec. 2018 - Jan. 2019</div>
-    <br/>Research Intern
+    </div>
   </summary>
   <p>
 Participated in a project on database security, i.e., assisted in parsing unstructured, free-text log entries into structured representation and developing Long Short-Term Memory (LSTM) model for detection of abnormal conditions of database.
@@ -63,9 +68,12 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 
 <details>
   <summary>
-    <div style="float:left; text-align:left"><strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.</div>
+    <strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.
+    <br/>
+    <div>
+    <div style="float:left; text-align:left">Research Assistant</div>
     <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
-    <br/>Research Assistant
+    </div>
   </summary>
   <p>
 Collaborated with PhD student Xiangyu Yue (Advisor: Prof. Kurt Keutzer) on research projects related to deep learning.
