@@ -95,6 +95,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 
 <details>
   <summary>
+  <p>
     <strong>Adversarial Enhancement for Community Detection in Complex Networks</strong>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Zhi Chen, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan
@@ -103,7 +104,8 @@ Autonomous driving with SqueezeNet and CNN:<br/>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;November 2019.
     <br/>
-    <a href="/data/1911.01670.pdf" class="btn btn-primary btn-xs">PDF</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/data/1911.01670.pdf" class="btn btn-primary btn-xs">PDF</a>
+  </p>
   </summary>
 Community detection plays a significant role in network analysis. However, it also faces numerous challenges like adversarial attacks. How to further improve the performance and robustness of community detection for real-world networks has raised great concerns. In this paper, we propose a concept of adversarial enhancement for community detection, and present two adversarial enhancement algorithms: one is named adversarial enhancement via genetic algorithm (AE-GA), in which the modularity and the number of clusters are used to design a fitness function to solve the resolution limit problem; and the other is called adversarial enhancement via vertex similarity (AE-VS), integrating multiple information of community structures captured by diverse vertex similarities, which scales well on large-scale networks. The two algorithms are tested along with six existing community detection algorithms on four real-world networks. Comprehensive experimental results show that, by comparing with two traditional enhancement strategies, our methods help six community detection algorithms achieve more significant performance improvement. Moreover, experiments on the corresponding adversarial networks indicate that our methods can rebuild the network structure destroyed by adversarial attacks to certain extent, achieving stronger defense against community detection deception.
 </details>
