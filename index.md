@@ -14,12 +14,10 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 
 <details>
   <summary>
-  <div>
-    <div style="float:left; text-align:left"><strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.</div>
-    <div style="float:right; text-align:right">Jan. 2019 - Present</div>
+    <strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.
     <br/>
-    Graduate Researcher
-  </div>
+    <div style="float:left; text-align:left">Graduate Researcher</div>
+    <div style="float:right; text-align:right">Jan. 2019 - Present</div>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researchers Min Du and Ruoxi Jia on research projects related to deep learning and security.
@@ -145,10 +143,10 @@ In network link prediction, it is possible to hide a target link from being pred
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
 ### Honors&Awards
 
-* B.S. Honors, <em>UC Berkeley</em> (May. 2019)
-* Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2018)
-* Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2017)
-* Finalist, <em>Intel International Science and Engineering Fair</em> (May. 2016)
+B.S. Honors, <em>UC Berkeley</em> (May. 2019)<br/>
+Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2018)<br/>
+Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2017)<br/>
+Finalist, <em>Intel International Science and Engineering Fair</em> (May. 2016)
 
 <!--
 ------------------------- | -------------------------
