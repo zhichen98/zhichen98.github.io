@@ -14,10 +14,12 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 
 <details>
   <summary>
+  <div>
     <div style="float:left; text-align:left"><strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.</div>
     <div style="float:right; text-align:right">Jan. 2019 - Present</div>
     <br/>
     Graduate Researcher
+  </div>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researchers Min Du and Ruoxi Jia on research projects related to deep learning and security.
@@ -86,12 +88,9 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 ### Education
 
 ------------------------- | -------------------------
-<strong>University of California, Berkeley</strong>, Berkeley, CA.
-<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019-2020
-<strong>University of California, Berkeley</strong>, Berkeley, CA.
-<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016-2019
-<strong>Duke University</strong>, Durham, NC.
-<br/>Economics: Game Theory | 2015-2015
+<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019-2020
+<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016-2019
+<strong>Duke University</strong>, Durham, NC.<br/>Economics: Game Theory | 2015-2015
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
