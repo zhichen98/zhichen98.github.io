@@ -17,8 +17,10 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
   <summary>
     <strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.
     <br/>
+    <div style="display: flow-root;">
     <div style="float:left; text-align:left">Graduate Researcher</div>
     <div style="float:right; text-align:right">Jan. 2019 - Present</div>
+    </div>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researchers Min Du and Ruoxi Jia on research projects related to deep learning and security.
@@ -56,7 +58,7 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
   <summary>
     <strong>Alibaba DAMO Academy </strong>, Hangzhou, China.
     <br/>
-    <div>
+    <div style="display: flow-root;">
     <div style="float:left; text-align:left">Research Intern</div>
     <div style="float:right; text-align:right">Dec. 2018 - Jan. 2019</div>
     </div>
@@ -72,7 +74,7 @@ Participated in a project on database security, i.e., assisted in parsing unstru
   <summary>
     <strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.
     <br/>
-    <div>
+    <div style="display: flow-root;">
     <div style="float:left; text-align:left">Research Assistant</div>
     <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
     </div>
