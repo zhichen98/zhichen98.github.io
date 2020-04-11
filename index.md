@@ -99,9 +99,9 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 ### Education
 
 ------------------------- | -------------------------
-<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019-2020
-<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016-2019
-<strong>Duke University</strong>, Durham, NC.<br/>Economics: Game Theory | 2015-2015
+<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019 - 2020
+<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016 - 2019
+<strong>Duke University</strong>, Durham, NC.<br/>Economics: Game Theory | 2015 - 2015
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
