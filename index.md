@@ -1,26 +1,4 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
-<div class="container">
-
-  <a class="navbar-brand"><center><img width="80" height="15" src="/data/ucb_eecs_logo.svg"></center></a>
-
-	<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
-    	<span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-    </button>
-
-    <div class="navbar-collapse collapse" id="navbar-main">
-
-      <ul class="nav navbar-nav navbar-right">
-      	<li><a href="#">About</a></li>
-      	<li><a href="#">Experience</a></li>
-        <li><a href="#">Education</a></li>
-      	<li><a href="#">Publications</a></li>
-        <li><a href="#">Honors&Awards</a></li>
-        <li><a href="#">Skills</a></li>
-      </ul>
-   	</div>
-  </div>
 ### About
 
 I am a graduating M.S. student in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> at <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. I obtained my B.S. in EECS from UC Berkeley in 2019.
