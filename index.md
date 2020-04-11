@@ -1,6 +1,6 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
-### About
 <div id="about"></div>
+### About
 
 I am a graduating M.S. student in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> at <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. I obtained my B.S. in EECS from UC Berkeley in 2019.
 
@@ -9,8 +9,8 @@ Advised by Prof. <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.
 I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a> for Fall 2020.
 
 <br/>
-### Experience
 <div id="experience"></div>
+### Experience
 
 <details>
   <summary>
@@ -81,8 +81,8 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 </details>
 
 <br/>
-### Education
 <div id="education"></div>
+### Education
 
 ------------------------- | -------------------------
 2019-2020 | <strong>University of California, Berkeley</strong><br/>Master of Science, Electrical Engineering and Computer Sciences
@@ -90,8 +90,8 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 2015-2015 | <strong>Duke University</strong><br/>Economics: Game Theory
 
 <br/>
-### Publications
 <div id="publications"></div>
+### Publications
 
 <details>
   <summary>
@@ -124,8 +124,8 @@ In network link prediction, it is possible to hide a target link from being pred
 </details>
 
 <br/>
-### Honors&Awards
 <div id="honors"></div>
+### Honors&Awards
 
 ------------------------- | -------------------------
 May 2019 | <strong>B.S. Honors</strong><br/>UC Berkeley
@@ -134,8 +134,8 @@ May 2017 | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
 May 2016 | <strong>Finalist</strong><br/>As a finalist, participating in the 67th Intel International Science and Engineering Fair, Phoenix, May 8-13, 2016.
 
 <br/>
-### Skills
 <div id="skills"></div>
+### Skills
 
 ------------------------- | -------------------------
 Languages | C/C++, Python, Java, SQL, Ruby, Ros
