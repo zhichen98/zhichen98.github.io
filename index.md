@@ -1,5 +1,5 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
-<div id="ct1"></div>
+<div id="ct1" style="padding-top:55px;margin-top:-55px;"></div>
 ### About
 
 I am a graduating M.S. student in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> at <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. I obtained my B.S. in EECS from UC Berkeley in 2019.
