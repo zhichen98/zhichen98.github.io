@@ -14,9 +14,10 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 
 <details>
   <summary>
-    <strong>Graduate Researcher </strong>
-    Center for Long-Term Cybersecurity<br/>
-    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present&nbsp;・&nbsp;UC Berkeley</em>
+    <div style="float:left; text-align:left"><strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.</div>
+    <div style="float:right; text-align:right">Jan. 2019 - Present</div>
+    <br/>
+    Graduate Researcher
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researchers Min Du and Ruoxi Jia on research projects related to deep learning and security.
@@ -51,9 +52,9 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 
 <details>
   <summary>
-    <strong>Research Intern </strong>
-    Alibaba DAMO Academy<br/>
-    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2018 - Jan 2019&nbsp;・&nbsp;Hangzhou, China</em>
+    <div style="float:left; text-align:left"><strong>Alibaba DAMO Academy </strong>, Hangzhou, China.</div>
+    <div style="float:right; text-align:right">Dec. 2018 - Jan. 2019</div>
+    <br/>Research Intern
   </summary>
   <p>
 Participated in a project on database security, i.e., assisted in parsing unstructured, free-text log entries into structured representation and developing Long Short-Term Memory (LSTM) model for detection of abnormal conditions of database.
@@ -62,9 +63,9 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 
 <details>
   <summary>
-    <strong>Research Assistant </strong>
-    Berkeley Artificial Intelligence Research Lab (BAIR)<br/>
-    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2018 - Nov 2018&nbsp;・&nbsp;UC Berkeley</em>
+    <div style="float:left; text-align:left"><strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.</div>
+    <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
+    <br/>Research Assistant
   </summary>
   <p>
 Collaborated with PhD student Xiangyu Yue (Advisor: Prof. Kurt Keutzer) on research projects related to deep learning.
@@ -85,9 +86,12 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 ### Education
 
 ------------------------- | -------------------------
-2019-2020 | <strong>University of California, Berkeley</strong><br/>Master of Science, Electrical Engineering and Computer Sciences
-2016-2019 | <strong>University of California, Berkeley</strong><br/>Bachelor of Science, Electrical Engineering and Computer Sciences
-2015-2015 | <strong>Duke University</strong><br/>Economics: Game Theory
+<strong>University of California, Berkeley</strong>, Berkeley, CA.
+<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019-2020
+<strong>University of California, Berkeley</strong>, Berkeley, CA.
+<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016-2019
+<strong>Duke University</strong>, Durham, NC.
+<br/>Economics: Game Theory | 2015-2015
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
@@ -142,11 +146,18 @@ In network link prediction, it is possible to hide a target link from being pred
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
 ### Honors&Awards
 
+* B.S. Honors, <em>UC Berkeley</em> (May. 2019)
+* Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2018)
+* Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2017)
+* Finalist, <em>Intel International Science and Engineering Fair</em> (May. 2016)
+
+<!--
 ------------------------- | -------------------------
 May 2019     |     <strong>B.S. Honors</strong><br/>UC Berkeley
 May 2018     |     <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
 May 2017     |     <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
 May 2016     |     <strong>Finalist</strong><br/>As a finalist, participating in the 67th Intel International Science and Engineering Fair, Phoenix, May 8-13, 2016.
+-->
 
 <br/>
 <div id="ct6" style="padding-top:55px;margin-top:-55px;"></div>
