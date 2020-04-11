@@ -12,14 +12,13 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Experience
 
+<div>
 <details>
   <summary>
     <strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.
     <br/>
-    <div>
     <div style="float:left; text-align:left">Graduate Researcher</div>
     <div style="float:right; text-align:right">Jan. 2019 - Present</div>
-    </div>
   </summary>
   <p>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researchers Min Du and Ruoxi Jia on research projects related to deep learning and security.
@@ -50,8 +49,9 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 • Evaluated the celebrated datasets and the performance surpassed the state-of-the-art.
   </p>
 </details>
+</div>
 
-
+<div>
 <details>
   <summary>
     <strong>Alibaba DAMO Academy </strong>, Hangzhou, China.
@@ -65,7 +65,9 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 Participated in a project on database security, i.e., assisted in parsing unstructured, free-text log entries into structured representation and developing Long Short-Term Memory (LSTM) model for detection of abnormal conditions of database.
   </p>
 </details>
+</div>
 
+<div>
 <details>
   <summary>
     <strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.
@@ -88,6 +90,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 • Conducted image segmentation on KITTI dataset and model training based on SqueezeNet and CNN, aiming to collect data from GTA-V (an action-adventure video game) and further using this dataset to train CNN model for autonomous driving.
   </p>
 </details>
+</div>
 
 <br/>
 <div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
