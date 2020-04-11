@@ -12,7 +12,7 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Experience
 
-<div>
+<div style="display: flow-root;">
 <details>
   <summary>
     <strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.
@@ -51,7 +51,7 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 </details>
 </div>
 
-<div>
+<div style="display: flow-root;">
 <details>
   <summary>
     <strong>Alibaba DAMO Academy </strong>, Hangzhou, China.
@@ -67,7 +67,7 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 </details>
 </div>
 
-<div>
+<div style="display: flow-root;">
 <details>
   <summary>
     <strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.
