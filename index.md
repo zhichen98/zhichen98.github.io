@@ -128,10 +128,10 @@ In network link prediction, it is possible to hide a target link from being pred
 ### Honors&Awards
 
 ------------------------- | -------------------------
-May 2019 | <strong>B.S. Honors</strong><br/>UC Berkeley
-May 2018 | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
-May 2017 | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
-May 2016 | <strong>Finalist</strong><br/>As a finalist, participating in the 67th Intel International Science and Engineering Fair, Phoenix, May 8-13, 2016.
+May 2019     | <strong>B.S. Honors</strong><br/>UC Berkeley
+May 2018     | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
+May 2017     | <strong>Dean's List</strong><br/>College of Engineering,UC Berkeley
+May 2016     | <strong>Finalist</strong><br/>As a finalist, participating in the 67th Intel International Science and Engineering Fair, Phoenix, May 8-13, 2016.
 
 <br/>
 <div id="ct6" style="padding-top:55px;margin-top:-55px;"></div>
