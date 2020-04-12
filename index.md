@@ -112,22 +112,6 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 
 <details>
   <summary>
-    <strong>Adversarial Enhancement for Community Detection in Complex Networks</strong>
-    <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Zhi Chen, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan
-    <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv preprint arXiv:1911.01670
-    <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;November 2019.
-    <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/data/1911.01670.pdf" class="btn btn-primary btn-xs">PDF</a>
-  </summary>
-  <hr class="simple" color="#e5e5e5" />
-Community detection plays a significant role in network analysis. However, it also faces numerous challenges like adversarial attacks. How to further improve the performance and robustness of community detection for real-world networks has raised great concerns. In this paper, we propose a concept of adversarial enhancement for community detection, and present two adversarial enhancement algorithms: one is named adversarial enhancement via genetic algorithm (AE-GA), in which the modularity and the number of clusters are used to design a fitness function to solve the resolution limit problem; and the other is called adversarial enhancement via vertex similarity (AE-VS), integrating multiple information of community structures captured by diverse vertex similarities, which scales well on large-scale networks. The two algorithms are tested along with six existing community detection algorithms on four real-world networks. Comprehensive experimental results show that, by comparing with two traditional enhancement strategies, our methods help six community detection algorithms achieve more significant performance improvement. Moreover, experiments on the corresponding adversarial networks indicate that our methods can rebuild the network structure destroyed by adversarial attacks to certain extent, achieving stronger defense against community detection deception.
-</details>
-
-<details>
-  <summary>
     <strong>Lifelong Anomaly Detection Through Unlearning</strong>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, Dawn Song
@@ -140,6 +124,22 @@ Community detection plays a significant role in network analysis. However, it al
   </summary>
   <hr class="simple" color="#e5e5e5" />
 Anomaly detection is essential towards ensuring system security and reliability. Powered by constantly generated system data, deep learning has been found both effective and flexible to use, with its ability to extract patterns without much domain knowledge. Existing anomaly detection research focuses on a scenario referred to as zero-positive, which means that the detection model is only trained for normal (i.e., negative) data. In a real application scenario, there may be additional manually inspected positive data provided after the system is deployed.We refer to this scenario as lifelong anomaly detection. However, we find that existing approaches are not easy to adopt such new knowledge to improve system performance. In this work, we are the first to explore the lifelong anomaly detection problem, and propose novel approaches to handle corresponding challenges. In particular, we propose a framework called unlearning, which can effectively correct the model when a false negative (or a false positive) is labeled. To this aim, we develop several novel techniques to tackle two challenges referred to as exploding loss and catastrophic forgetting. In addition, we abstract a theoretical framework based on generative models. Under this framework, our unlearning approach can be presented in a generic way to be applied to most zero-positive deep learning-based anomaly detection algorithms to turn them into corresponding lifelong anomaly detection solutions. We evaluate our approach using two state-of-the-art zero-positive deep learning anomaly detection architectures and three real-world tasks. The results show that the proposed approach is able to significantly reduce the number of false positives and false negatives through unlearning.
+</details>
+
+<details>
+  <summary>
+    <strong>Adversarial Enhancement for Community Detection in Complex Networks</strong>
+    <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Zhi Chen, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan
+    <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv preprint arXiv:1911.01670
+    <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;November 2019.
+    <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/data/1911.01670.pdf" class="btn btn-primary btn-xs">PDF</a>
+  </summary>
+  <hr class="simple" color="#e5e5e5" />
+Community detection plays a significant role in network analysis. However, it also faces numerous challenges like adversarial attacks. How to further improve the performance and robustness of community detection for real-world networks has raised great concerns. In this paper, we propose a concept of adversarial enhancement for community detection, and present two adversarial enhancement algorithms: one is named adversarial enhancement via genetic algorithm (AE-GA), in which the modularity and the number of clusters are used to design a fitness function to solve the resolution limit problem; and the other is called adversarial enhancement via vertex similarity (AE-VS), integrating multiple information of community structures captured by diverse vertex similarities, which scales well on large-scale networks. The two algorithms are tested along with six existing community detection algorithms on four real-world networks. Comprehensive experimental results show that, by comparing with two traditional enhancement strategies, our methods help six community detection algorithms achieve more significant performance improvement. Moreover, experiments on the corresponding adversarial networks indicate that our methods can rebuild the network structure destroyed by adversarial attacks to certain extent, achieving stronger defense against community detection deception.
 </details>
 
 <details>
