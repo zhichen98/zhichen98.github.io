@@ -166,10 +166,10 @@ In network link prediction, it is possible to hide a target link from being pred
 ### Honors&Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
-  <li>B.S. Honors, <em>UC Berkeley</em> (May. 2019)</li>
-  <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2018)</li>
-  <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2017)</li>
-  <li>Finalist, <em>Intel International Science and Engineering Fair</em> (May. 2016)</li>
+  <li>B.S. Honors, <em>UC Berkeley</em> (May 2019)</li>
+  <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May 2018)</li>
+  <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May 2017)</li>
+  <li>Finalist, <em>Intel International Science and Engineering Fair</em> (May 2016)</li>
 </ul>
 
 <!--
