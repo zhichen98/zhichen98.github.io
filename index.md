@@ -85,7 +85,7 @@ Participated in a project on database security, i.e., assisted in parsing unstru
       <li>
           <div style="display: flow-root;">
               <div style="float:left; text-align:left">Research Assistant</div>
-              <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
+              <div style="float:right; text-align:right">May 2018 - Nov. 2018</div>
           </div>
       </li>
     </ul>
