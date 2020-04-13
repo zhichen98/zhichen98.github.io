@@ -16,7 +16,7 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 <details>
   <summary>
   <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
-    <li><strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.</li>
+    <li><strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, Berkeley, CA.</li>
     <li>
         <div style="display: flow-root;">
             <div style="float:left; text-align:left">Graduate Researcher</div>
@@ -81,11 +81,11 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 <details>
   <summary>
     <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
-      <li><strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.</li>
+      <li><strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, Berkeley, CA.</li>
       <li>
           <div style="display: flow-root;">
               <div style="float:left; text-align:left">Research Assistant</div>
-              <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
+              <div style="float:right; text-align:right">May 2018 - Nov. 2018</div>
           </div>
       </li>
     </ul>
@@ -124,7 +124,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
       <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, Dawn Song</li>
-        <li>Proceedings of <em>the 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
+        <li>Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
         <li>London, UK, November 2019.</li>
         <li><a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
