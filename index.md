@@ -124,7 +124,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
       <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, Dawn Song</li>
-        <li>Proceedings of <em>the 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
+        <li>Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
         <li>London, UK, November 2019.</li>
         <li><a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
