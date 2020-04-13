@@ -15,12 +15,15 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
 <div style="display: flow-root;">
 <details>
   <summary>
-    <strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.
-    <br/>
-    <div style="display: flow-root;">
-    <div style="float:left; text-align:left">Graduate Researcher</div>
-    <div style="float:right; text-align:right">Jan. 2019 - Present</div>
-    </div>
+  <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
+    <li><strong>Center for Long-Term Cybersecurity </strong>, UC Berkeley, CA.</li>
+    <li>
+        <div style="display: flow-root;">
+            <div style="float:left; text-align:left">Graduate Researcher</div>
+            <div style="float:right; text-align:right">Jan. 2019 - Present</div>
+        </div>
+    </li>
+  </ul>
   </summary>
   <hr class="simple" color="#e5e5e5" />
   <p>
@@ -57,12 +60,15 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 <div style="display: flow-root;">
 <details>
   <summary>
-    <strong>Alibaba DAMO Academy </strong>, Hangzhou, China.
-    <br/>
-    <div style="display: flow-root;">
-    <div style="float:left; text-align:left">Research Intern</div>
-    <div style="float:right; text-align:right">Dec. 2018 - Jan. 2019</div>
-    </div>
+    <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
+      <li><strong>Alibaba DAMO Academy </strong>, Hangzhou, China.</li>
+      <li>
+          <div style="display: flow-root;">
+              <div style="float:left; text-align:left">Research Intern</div>
+              <div style="float:right; text-align:right">Dec. 2018 - Jan. 2019</div>
+          </div>
+      </li>
+    </ul>
   </summary>
   <hr class="simple" color="#e5e5e5" />
   <p>
@@ -74,12 +80,15 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 <div style="display: flow-root;">
 <details>
   <summary>
-    <strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.
-    <br/>
-    <div style="display: flow-root;">
-    <div style="float:left; text-align:left">Research Assistant</div>
-    <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
-    </div>
+    <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
+      <li><strong>Berkeley Artificial Intelligence Research Lab </strong>, UC Berkeley, CA.</li>
+      <li>
+          <div style="display: flow-root;">
+              <div style="float:left; text-align:left">Research Assistant</div>
+              <div style="float:right; text-align:right">May. 2018 - Nov. 2018</div>
+          </div>
+      </li>
+    </ul>
   </summary>
   <hr class="simple" color="#e5e5e5" />
   <p>
@@ -156,12 +165,12 @@ In network link prediction, it is possible to hide a target link from being pred
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
 ### Honors&Awards
 
-<ul style="list-style-type:square;">
+<ul style="list-style-type:square;margin-left:-22px;">
   <li>B.S. Honors, <em>UC Berkeley</em> (May. 2019)</li>
   <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2018)</li>
   <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May. 2017)</li>
   <li>Finalist, <em>Intel International Science and Engineering Fair</em> (May. 2016)</li>
-</ul> 
+</ul>
 
 <!--
 ------------------------- | -------------------------
