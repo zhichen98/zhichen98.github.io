@@ -1,51 +1,27 @@
 a:hover {font-weight:normal;}
 
-div.wrapper {
-    width: 900px;
-    margin: 0 auto
-}
-
 header {
     width: 220px;
     padding-left:5px;
-    float: left;
-    position: fixed;
-    -webkit-font-smoothing: subpixel-antialiased
 }
 
 header ul {
-    list-style: none;
-    height: 40px;
-    padding: 0;
-    background: #f4f4f4;
-    border-radius: 5px;
-    border: 1px solid #e0e0e0;
     width: 220px;
 }
 
 header li {
     width: 72px;
-    float: left;
-    border-right: 1px solid #e0e0e0;
-    height: 40px;
 }
 
 header ul li+li+li {
-    border-right: none;
     width: 72px;
 }
 
 section {
     width: 575px;
-    float: right;
-    padding-bottom: 50px
 }
 
 footer {
     width: 220px;
     padding-left:5px;
-    float: left;
-    position: fixed;
-    bottom: 50px;
-    -webkit-font-smoothing: subpixel-antialiased;
 }
