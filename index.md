@@ -186,5 +186,5 @@ May 2016     |     <strong>Finalist</strong><br/>As a finalist, participating in
 ### Skills
 
 ------------------------- | -------------------------
-Languages | C/C++, Python, Java, SQL, Ruby, Ros
-Frameworks | Pytorch, Tensorflow, Rails, Cucumber
+<strong>Languages</strong> | C/C++, Python, Java, SQL, Ruby, Ros
+<strong>Frameworks</strong> | Pytorch, Tensorflow, Rails, Cucumber
