@@ -121,7 +121,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 ### Teaching
 
 ------------------------- | -------------------------
-<strong>Spring 2020</strong> | CS-445 Computational Photography,University of Illinois at Urbana-Champaign,Teaching Assistant
+<strong>Spring 2020</strong> | CS-445 Computational Photography,Illinois,Teaching Assistant
 
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
