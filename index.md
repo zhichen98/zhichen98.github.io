@@ -117,6 +117,12 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 <strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
 
 <br/>
+<div id="ct7" style="padding-top:55px;margin-top:-55px;"></div>
+### Teaching
+
+------------------------- | -------------------------
+<strong>Spring 2020</strong> | CS-445 Computational Photography,University of Illinois at Urbana-Champaign,Teaching Assistant
+
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
 
