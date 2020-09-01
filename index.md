@@ -3,15 +3,23 @@
 <div id="ct1" style="padding-top:55px;margin-top:-55px;"></div>
 ### About
 
-I am a graduating M.S. student in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> at <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. I obtained my B.S. in EECS from UC Berkeley in 2019.
+I am a first year Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. My research interests lie in security and machine learning.
 
-Advised by Prof. <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a>, my research interests lie in the fields of deep learning and AI security. I have been fortunate to work with Dr. <a href="https://cltc.berkeley.edu/about-us/researchers/min-du/">Min Du</a> and Dr. <a href="https://cltc.berkeley.edu/about-us/researchers/ruoxi-jia/">Ruoxi Jia</a> at the Center for Long-Term Cybersecurity, UC Berkeley. My current M.S. project focuses on noisy dataset stochastic gradient descent.
-
-I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a> for Fall 2020.
+I received my M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a> in 2020, under the supervision of Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> in the Center for Long-Term Cybersecurity. I received my B.S. in Electrical Engineering and Computer Sciences from UC Berkeley in 2019. I had research internship at Berkeley Artificial Intelligence Research Lab and Alibaba DAMO Academy in 2018.
 
 <br/>
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
-### Experience
+### Education
+
+------------------------- | -------------------------
+<strong>University of Illinois at Urbana-Champaign</strong>, Champaign, IL.PhD, Computer Science | 2020 - 2025
+<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019 - 2020
+<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016 - 2019
+<strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
+
+<br/>
+<div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
+### Research
 
 <div style="display: flow-root;">
 <details>
@@ -21,7 +29,7 @@ I am also an admitted Ph.D. student in <a href="https://cs.illinois.edu/">Comput
     <li>
         <div style="display: flow-root;">
             <div style="float:left; text-align:left">Graduate Researcher</div>
-            <div style="float:right; text-align:right">Jan. 2019 - Present</div>
+            <div style="float:right; text-align:right">Jan. 2019 - Aug. 2020</div>
         </div>
     </li>
   </ul>
@@ -108,22 +116,14 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 </div>
 
 <br/>
-<div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
-### Education
-
-------------------------- | -------------------------
-<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences | 2019 - 2020
-<strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016 - 2019
-<strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
-
-<br/>
-<div id="ct7" style="padding-top:55px;margin-top:-55px;"></div>
+<div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Teaching
 
 ------------------------- | -------------------------
-<strong>Spring 2020</strong> | CS-445 Computational Photography,Illinois,Teaching Assistant
+<strong>Fall 2020</strong> | CS-445 Computational Photography, UIUC, Teaching Assistant
 
-<div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
+<br/>
+<div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
 
 <details>
@@ -169,7 +169,7 @@ In network link prediction, it is possible to hide a target link from being pred
 </details>
 
 <br/>
-<div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
+<div id="ct6" style="padding-top:55px;margin-top:-55px;"></div>
 ### Honors&Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
@@ -188,7 +188,7 @@ May 2016     |     <strong>Finalist</strong><br/>As a finalist, participating in
 -->
 
 <br/>
-<div id="ct6" style="padding-top:55px;margin-top:-55px;"></div>
+<div id="ct7" style="padding-top:55px;margin-top:-55px;"></div>
 ### Skills
 
 ------------------------- | -------------------------
