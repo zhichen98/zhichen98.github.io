@@ -12,7 +12,7 @@ I received my M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineerin
 ### Education
 
 ------------------------- | -------------------------
-<strong>University of Illinois at Urbana-Champaign</strong>, Champaign, IL.<br/>Ph.D., Computer Science |                 2020 - 2025
+<strong>University of Illinois at Urbana-Champaign</strong>, Urbana, IL.<br/>Ph.D., Computer Science |                 2020 - 2025
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences |                 2019 - 2020
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences |                 2016 - 2019
 <strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory |                 2015 - 2015
