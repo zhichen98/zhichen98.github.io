@@ -119,12 +119,13 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Teaching
 
-------------------------- | -------------------------
-<strong>Fall 2020</strong> | CS-445 Computational Photography, UIUC, Teaching Assistant
+<ul style="list-style-type:disc;margin-left:-22px;">
+  <li>CS 445: Computational Photography, <em>UIUC</em>, Teaching Assistant, Fall 2020.</li>
+</ul>
 
 <br/>
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
-### Publications
+### Publications&Preprints
 
 <details>
   <summary>
