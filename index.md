@@ -125,7 +125,7 @@ Autonomous driving with SqueezeNet and CNN:<br/>
 
 <br/>
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
-### Publications&Preprints
+### Publications & Preprints
 
 <details>
   <summary>
@@ -171,7 +171,7 @@ In network link prediction, it is possible to hide a target link from being pred
 
 <br/>
 <div id="ct6" style="padding-top:55px;margin-top:-55px;"></div>
-### Honors&Awards
+### Honors & Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
   <li>B.S. Honors, <em>UC Berkeley</em> (May 2019)</li>
