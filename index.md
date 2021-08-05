@@ -1,9 +1,10 @@
 <link href="/public/css/bootstrap.css" rel="stylesheet" />
 <link href="/public/css/my.css" rel="stylesheet" />
-<div id="ct1" style="padding-top:55px;margin-top:-55px;"></div>
 <!--[if lt IE 9]>
    <script> src="http://html5shim.googlecode.com/svn/trunk/html5.js"</script>
 <![endif]--> 
+<div id="ct1" style="padding-top:55px;margin-top:-55px;"></div>
+
 ### About
 
 I am a first year Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. My research interests lie in security and machine learning.
