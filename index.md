@@ -22,13 +22,13 @@ I received my M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineerin
 <div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
 ### Research
 
-<div style="display: inline-block;  clear:both;">
+<div style="display: inline-block;  clear:both; width:100%;">
 <details>
   <summary>
   <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
     <li><strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.</li>
     <li>
-        <div style="inline-block;  clear:both;">
+        <div style="display:inline;">
             <div style="float:left; text-align:left">Graduate Researcher</div>
             <div style="float:right; text-align:right">Jan. 2019 - Aug. 2020</div>
         </div>
@@ -67,13 +67,13 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 </details>
 </div>
 
-<div style="display: inline-block;  clear:both;">
+<div style="display: inline-block;  clear:both; width:100%;">
 <details>
   <summary>
     <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
       <li><strong>Alibaba DAMO Academy</strong>, Hangzhou, China.</li>
       <li>
-          <div style="display: inline-block;  clear:both;">
+          <div style="display: inline;">
               <div style="float:left; text-align:left">Research Intern</div>
               <div style="float:right; text-align:right">Dec. 2018 - Jan. 2019</div>
           </div>
@@ -87,13 +87,13 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 </details>
 </div>
 
-<div style="display: inline-block;  clear:both;">
+<div style="display: inline-block;  clear:both; width:100%;">
 <details>
   <summary>
     <ul style="list-style-type:none;margin-top:-18px;margin-left:-22px;">
       <li><strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.</li>
       <li>
-          <div style="display: inline-block;  clear:both;">
+          <div style="display: inline;">
               <div style="float:left; text-align:left">Research Assistant</div>
               <div style="float:right; text-align:right">May 2018 - Nov. 2018</div>
           </div>
