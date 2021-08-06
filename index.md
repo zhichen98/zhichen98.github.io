@@ -4,9 +4,9 @@
 
 ### About
 
-I am a first year Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. My research interests lie in security and machine learning.
+I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. My research interests lie in security and machine learning.
 
-I received my M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a> in 2020, under the supervision of Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> at the Center for Long-Term Cybersecurity. I received my B.S. in <a href="http://guide.berkeley.edu/undergraduate/degree-programs/electrical-engineering-computer-sciences/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">UC Berkeley</a> in 2019. I had research internship at <a href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research Lab</a> and <a href="https://damo.alibaba.com/">Alibaba DAMO Academy</a> in 2018.
+I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a> in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
 
 <br/>
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
