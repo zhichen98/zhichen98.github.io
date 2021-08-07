@@ -32,7 +32,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
 
-
+<div>
       <ul style="list-style-type:none;margin-left:-22px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
@@ -59,7 +59,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
       <li>November 2019.</li>
       <li><a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></li>
     </ul>
-
+</div>
 
 <br/>
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
