@@ -33,7 +33,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 ### Publications
 
 <div>
-      <ul style="list-style-type:none;margin-left:-22px;">
+      <ul style="list-style-type:none;padding-inline-start: 0px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
         <li>Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
@@ -42,7 +42,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
       </ul>
 
 
-    <ul style="list-style-type:none;margin-left:-22px;">
+    <ul style="list-style-type:none;padding-inline-start: 0px;">
       <li><strong>Adversarial Enhancement for Community Detection in Complex Networks</strong></li>
       <li>Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan</li>
       <li>arXiv preprint arXiv:1911.01670</li>
@@ -52,7 +52,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 
 
-    <ul style="list-style-type:none;margin-left:-22px;">
+    <ul style="list-style-type:none;padding-inline-start: 0px;">
       <li><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong></li>
       <li>Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan</li>
       <li>arXiv preprint arXiv:1911.10561</li>
