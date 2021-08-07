@@ -24,9 +24,9 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 ------------------------- | -------------------------
 <strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant |                        Fall 2020
-<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Graduate Researcher  |            Jan. 2019 - Aug. 2020
-<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern  |                                        Dec. 2018 - Jan. 2019
-<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant |   May 2018 - Nov. 2018
+<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Graduate Researcher  |            Jan. 2019<br/>-<br/>Aug. 2020
+<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern  |                                        Dec. 2018<br/>-<br/>Jan. 2019
+<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant |   May 2018<br/>-<br/>Nov. 2018
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
@@ -42,7 +42,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
       </ul>
 
 
-    <ul style="list-style-type:none;padding-inline-start: 0px;">
+    <ul style="list-style-type:none;padding-left: 0px;">
       <li><strong>Adversarial Enhancement for Community Detection in Complex Networks</strong></li>
       <li>Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan</li>
       <li>arXiv preprint arXiv:1911.01670</li>
@@ -52,7 +52,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 
 
-    <ul style="list-style-type:none;padding-inline-start: 0px;">
+    <ul style="list-style-type:none;padding-left: 0px;">
       <li><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong></li>
       <li>Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan</li>
       <li>arXiv preprint arXiv:1911.10561</li>
