@@ -33,7 +33,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 ### Publications
 
 <div>
-      <ul style="list-style-type:none;padding-inline-start: 0px;">
+      <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
         <li>Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
