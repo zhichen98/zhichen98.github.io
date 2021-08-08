@@ -28,10 +28,10 @@
        	</div>
       </div>
     </div>
-    <div class="wrapper col-xs-12 col-md-11 col-lg-10">
-      <header class="col-xs-12 col-md-3 col-lg-3" style="padding-top:25px;padding-right: 0px;">
-        <div class="row" style="display:-webkit-box;">
-          <div class="col-xs-12 col-md-2 col-lg-2">
+    <div class="wrapper">
+      <header style="padding-top:25px;padding-right: 0px;">
+        <div style="display:-webkit-box;">
+          <div>
             <h1><strong><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></strong></h1>
 
             {% if site.logo %}
@@ -60,10 +60,10 @@
             </ul>
             {% endif %}
           </div>
-          <div style="border-right: 1px solid #ddd;" class="hidden-xs col-md-1 col-lg-1"></div>
+          <div style="border-right: 1px solid #ddd;" class="hidden-xs"></div>
         </div>
       </header>
-      <section class="col-xs-12 col-md-9 col-lg-8" sytle="float:right;">
+      <section>
 
       {{ content }}
 
