@@ -23,41 +23,45 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 ### Experience
 
 ------------------------- | -------------------------
-<strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant |                        Fall 2020
-<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Graduate Researcher  |            Jan. 2019<br/>-<br/>Aug. 2020
-<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern  |                                        Dec. 2018<br/>-<br/>Jan. 2019
-<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant |   May 2018<br/>-<br/>Nov. 2018
+<strong>Computer Science</strong>, UIUC, Urbana, IL.<br/>RA |                        May. 2021 - Present
+<strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>TA |                        Fall 2020
+<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Graduate Researcher  |            Jan. 2019 - Aug. 2020
+<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern  |                                        Dec. 2018 - Jan. 2019
+<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>RA |   May 2018 - Nov. 2018
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
 
 <div>
+
+      <ul style="list-style-type:none;padding-left: 0px;">
+        <li><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong></li>
+        <li>Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan</li>
+        <li>Proceedings of <em>THE IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)<em></li>
+        <li>June 2021.<a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+      </ul>
+
+      <ul style="list-style-type:none;padding-left: 0px;">
+        <li><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong></li>
+        <li><strong>Zhi Chen</strong></li>
+        <li>Technical Report No. UCB/EECS-2020-55</li>
+        <li>EECS Department, University of California, Berkeley, May 2020.<a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+      </ul>
+
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
         <li>Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
-        <li>London, UK, November 2019.</li>
-        <li><a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+        <li>London, UK, November 2019.<a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
-
-
-    <ul style="list-style-type:none;padding-left: 0px;">
-      <li><strong>Adversarial Enhancement for Community Detection in Complex Networks</strong></li>
-      <li>Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan</li>
-      <li>arXiv preprint arXiv:1911.01670</li>
-      <li>November 2019.</li>
-      <li><a href="/data/1911.01670.pdf" class="btn btn-primary btn-xs">PDF</a></li>
-    </ul>
-
 
 
     <ul style="list-style-type:none;padding-left: 0px;">
       <li><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong></li>
       <li>Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan</li>
       <li>arXiv preprint arXiv:1911.10561</li>
-      <li>November 2019.</li>
-      <li><a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+      <li>November 2019.<a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></li>
     </ul>
 </div>
 
