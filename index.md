@@ -12,7 +12,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Education
 
-------------------------- | -------------------------
+:------------------------- | -------------------------:
 <strong>University of Illinois at Urbana-Champaign</strong>, Urbana, IL.<br/>Ph.D., Computer Science |                 2020 - Present
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Master of Science, Electrical Engineering and Computer Sciences |                 2019 - 2020
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences |                 2016 - 2019
@@ -22,7 +22,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 <div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
 ### Experience
 
-------------------------- | -------------------------
+:------------------------- | -------------------------:
 <strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant |                May. 2021 - Aug. 2021
 <strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant |                        Fall 2020
 <strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant  |            Jan. 2019 - Aug. 2020
@@ -31,14 +31,13 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
-### Publications
+### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
-  Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
+  Jiajun Zhou\*, <strong>Zhi Chen</strong>\*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  J. Zhou and Z. Chen make equal contribution.<br/>
-  June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  June 2021. (\*:with equal contribution)<a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
