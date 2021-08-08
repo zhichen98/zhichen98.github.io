@@ -1,6 +1,11 @@
 a:hover {font-weight:normal;}
 thead {display:none;}
 table {
-        border-spacing: 0px 5px;
+        border-spacing: 0px 10px;
         border-collapse: separate;
-      }
+}
+
+tbody {
+      display: block;
+      margin-top: -20px;
+}
