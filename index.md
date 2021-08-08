@@ -33,27 +33,53 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
 
+<ul style="list-style-type:disc;margin-left:-22px;">
+  <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
+  Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
+  Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)</em><br/>
+  June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
+  <strong>Zhi Chen</strong><br/>
+  Technical Report No. UCB/EECS-2020-55<br/>
+  EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p><strong>Lifelong Anomaly Detection Through Unlearning</strong><br/>
+  Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song<br/>
+  Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em><br/>
+  London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
+  Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
+  arXiv preprint arXiv:1911.10561<br/>
+  November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+</ul>
+<!--
 <div>
 
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong></li>
         <li>Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan</li>
         <li>Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)</em></li>
-        <li>June 2021.<a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+        <li>June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
 
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong></li>
         <li><strong>Zhi Chen</strong></li>
         <li>Technical Report No. UCB/EECS-2020-55</li>
-        <li>EECS Department, University of California, Berkeley, May 2020.<a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+        <li>EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
 
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
         <li>Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em></li>
-        <li>London, UK, November 2019.<a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+        <li>London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
 
 
@@ -61,9 +87,10 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
       <li><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong></li>
       <li>Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan</li>
       <li>arXiv preprint arXiv:1911.10561</li>
-      <li>November 2019.<a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></li>
+      <li>November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></li>
     </ul>
 </div>
+-->
 
 <br/>
 <div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
