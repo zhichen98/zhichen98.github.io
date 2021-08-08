@@ -35,9 +35,9 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 <ul style="list-style-type:disc;margin-left:-22px;">
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
-  Jiajun Zhou\*, <strong>Zhi Chen</strong>\*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
+  Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  June 2021. (\*:with equal contribution)<a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  June 2021. (*:with equal contribution)<a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
