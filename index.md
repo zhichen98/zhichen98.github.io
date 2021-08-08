@@ -38,7 +38,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
   Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
   J. Zhou and Z. Chen make equal contribution.<br/>
-  June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
@@ -56,7 +56,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   arXiv preprint arXiv:1911.10561<br/>
-  November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 </ul>
 <!--
