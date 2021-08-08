@@ -38,7 +38,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong></li>
         <li>Jiajun Zhou, <strong>Zhi Chen</strong>, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan</li>
-        <li>Proceedings of <em>THE IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)</em></li>
+        <li>Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)</em></li>
         <li>June 2021.<a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
 
