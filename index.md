@@ -23,11 +23,11 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 ### Experience
 
 ------------------------- | -------------------------
-<strong>Computer Science</strong>, UIUC, Urbana, IL.<br/>RA |                        <br/>May. 2021 - Present
-<strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>TA |                        <br/>Fall 2020
-<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Graduate Researcher  |            <br/>Jan. 2019 - Aug. 2020
-<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern  |                                        <br/>Dec. 2018 - Jan. 2019
-<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>RA |   <br/>May 2018 - Nov. 2018
+<strong>Computer Science</strong>, UIUC, Urbana, IL.<br/>RA |                        May. 2021 - Present
+<strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>TA |                        Fall 2020
+<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Graduate Researcher  |            Jan. 2019 - Aug. 2020
+<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern  |                                        Dec. 2018 - Jan. 2019
+<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>RA |   May 2018 - Nov. 2018
 
 <br/>
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
