@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="wrapper">
-      <header style="padding-top:25px;">
+      <header style="padding-top:25px;padding-right: 0px;">
         <div class="row" style="display:-webkit-box;">
           <div class="col-xs-12 col-md-11">
             <h1><strong><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></strong></h1>
@@ -37,7 +37,7 @@
             {% if site.logo %}
               <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
-            <ul style="background:none;border:none;padding-left: 0px;">
+            <ul style="background:none;border:none;padding-left: 0px;position: static;">
             <div>{{ site.description | default: site.github.project_tagline }}</div>
             </ul>
             {% if site.github.is_project_page %}
