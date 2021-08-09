@@ -25,7 +25,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 |||
 :---- | ----:
-<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | May. 2021 - Aug. 2021
+<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | May 2021 - Aug. 2021
 <strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2020
 <strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | Jan. 2019 - Aug. 2020
 <strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
@@ -44,7 +44,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
   <strong>Zhi Chen</strong><br/>
-  Technical Report No. UCB/EECS-2020-55<br/>
+  <em>Technical Report No. UCB/EECS-2020-55</em><br/>
   EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
@@ -56,7 +56,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
-  arXiv preprint arXiv:1911.10561<br/>
+  <em>arXiv preprint arXiv:1911.10561</em><br/>
   November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 </ul>
