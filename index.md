@@ -4,9 +4,11 @@
 
 ### About
 
-I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. I am also a member of <a href="https://spri.engr.illinois.edu/">Security and Privacy Research at Illinois (SPR@I)</a>. My research interests lie in security and machine learning.
+I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. I am also a member of <a href="https://spri.engr.illinois.edu/">Security and Privacy Research at Illinois (SPR@I)</a>.
 
 I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a> in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
+
+My research interests lie in security and machine learning.
 
 <br/>
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
