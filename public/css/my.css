@@ -5,7 +5,7 @@ table {
         border-collapse: separate;
         margin-top: -10px;
 }
-.navbar > li {
+.navbar-nav > li {
   margin-left: 10px;
   margin-right: 10px;
 }
