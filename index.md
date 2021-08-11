@@ -58,7 +58,7 @@ My research interests lie in security and machine learning.
 
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
-  <em>arXiv preprint arXiv:1911.10561</em><br/>
+  <em>arXiv:1911.10561</em><br/>
   November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 </ul>
