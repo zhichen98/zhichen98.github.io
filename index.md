@@ -41,7 +41,7 @@ My research interests lie in security and machine learning.
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
   Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  June 2021. (* indicates equal contribution) <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  July 2021. (* indicates equal contribution) <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
