@@ -50,17 +50,18 @@ My research interests lie in security and machine learning.
   EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
+  <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
+  Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
+  <em>arXiv:1911.10561</em><br/>
+  April 2020. <a href="/data/1911.10561v2.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  </li>
+
   <li><p><strong>Lifelong Anomaly Detection Through Unlearning</strong><br/>
   Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song<br/>
   Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em><br/>
   London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
-  <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
-  Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
-  <em>arXiv:1911.10561</em><br/>
-  November 2019. <a href="/data/1911.10561.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
-  </li>
 </ul>
 <!--
 <div>
