@@ -38,6 +38,12 @@ My research interests lie in security and machine learning.
 ### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
+  <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
+  Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
+  Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
+  September 2021. <a href="/data/Time-aware_Gradient_Attack_on_Dynamic_Network_Link_Prediction.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
   Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
@@ -48,12 +54,6 @@ My research interests lie in security and machine learning.
   <strong>Zhi Chen</strong><br/>
   <em>Technical Report No. UCB/EECS-2020-55</em><br/>
   EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></p>
-  </li>
-
-  <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
-  Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
-  <em>arXiv:1911.10561</em><br/>
-  April 2020. <a href="/data/1911.10561v2.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>Lifelong Anomaly Detection Through Unlearning</strong><br/>
