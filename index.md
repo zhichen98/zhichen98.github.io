@@ -41,13 +41,13 @@ My research interests lie in security and machine learning.
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  September 2021. <a href="/data/Time-aware_Gradient_Attack_on_Dynamic_Network_Link_Prediction.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  September 2021. <a href="/data/Time-aware_Gradient_Attack_on_Dynamic_Network_Link_Prediction.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
   Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  July 2021. (* indicates equal contribution) <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  June 2021. (* indicates equal contribution) <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
