@@ -22,7 +22,7 @@ My research interests lie in security and machine learning.
 <strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
 
 <br/>
-<div id="ct3" style="padding-top:25px;margin-top:-55px;"></div>
+<div id="ct3" style="padding-top:15px;margin-top:-65px;"></div>
 ### Experience
 
 |||
@@ -34,7 +34,7 @@ My research interests lie in security and machine learning.
 <strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | May 2018 - Nov. 2018
 
 <br/>
-<div id="ct4" style="padding-top:25px;margin-top:-55px;"></div>
+<div id="ct4" style="padding-top:15px;margin-top:-65px;"></div>
 ### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
