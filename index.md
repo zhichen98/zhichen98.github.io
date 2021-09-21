@@ -10,8 +10,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 My research interests lie in security and machine learning.
 
-<br/>
-<div id="ct2" style="padding-top:25px;margin-top:-55px;"></div>
+<div id="ct2"></div>
 ### Education
 
 |||
@@ -21,8 +20,7 @@ My research interests lie in security and machine learning.
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016 - 2019
 <strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
 
-<br/>
-<div id="ct3" style="padding-top:15px;margin-top:-65px;"></div>
+<div id="ct3" style="margin-top:-10px;"></div>
 ### Experience
 
 |||
@@ -33,8 +31,7 @@ My research interests lie in security and machine learning.
 <strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
 <strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | May 2018 - Nov. 2018
 
-<br/>
-<div id="ct4" style="padding-top:15px;margin-top:-65px;"></div>
+<div id="ct4" style="margin-top:-10px;"></div>
 ### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
@@ -97,8 +94,7 @@ My research interests lie in security and machine learning.
 </div>
 -->
 
-<br/>
-<div id="ct5" style="padding-top:25px;margin-top:-55px;"></div>
+<div id="ct5"></div>
 ### Honors & Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
