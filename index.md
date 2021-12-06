@@ -10,7 +10,7 @@ I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electri
 
 My research interests lie in security and machine learning.
 
-<div id="ct2"></div>
+<div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Education
 
 |||
