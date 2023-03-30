@@ -25,6 +25,7 @@ My research interests lie in security and machine learning.
 
 |||
 :---- | ----:
+<strong>CS 463: Computer Security Ⅱ</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2023
 <strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | May 2021 - Present
 <strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2020
 <strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | Jan. 2019 - Aug. 2020
