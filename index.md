@@ -36,6 +36,12 @@ My research interests lie in security and machine learning.
 ### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
+  <li><p><strong>Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers</strong><br/>
+  Limin Yang, <strong>Zhi Chen</strong>, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang<br/>
+  Proceedings of <em>The IEEE Symposium on Security and Privacy (<strong>S&P</strong>)</em><br/>
+  May 2023. <a href="/data/2202.05470.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
