@@ -38,20 +38,26 @@ My research interests lie in security and machine learning.
 <ul style="list-style-type:disc;margin-left:-22px;">
   <li><p><strong>Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers</strong><br/>
   Limin Yang, <strong>Zhi Chen</strong>, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang<br/>
-  Proceedings of <em>The IEEE Symposium on Security and Privacy (<strong>S&P</strong>)</em><br/>
+  Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (<strong>S&P</strong>)</em><br/>
   May 2023. <a href="/data/2202.05470.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p><strong>Is It Overkill? Analyzing Feature-Space Concept Drift in Malware Detectors</strong><br/>
+  <strong>Zhi Chen</strong><br/>
+  Proceedings of <em>The 6th IEEE Deep Learning Security and Privacy Workshop (<strong>DLSP</strong>)</em><br/>
+  May 2023. <a href="/data/feature_space_DLS.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  September 2021. <a href="/data/Time-aware_Gradient_Attack_on_Dynamic_Network_Link_Prediction.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  February 2023. <a href="/data/TKDE2023-TGA.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
   Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  June 2021. (* indicates equal contribution) <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  January 2023. (* indicates equal contribution) <a href="/data/TKDE2023-ECD.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
