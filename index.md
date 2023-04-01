@@ -41,13 +41,14 @@ My research interests lie in security and machine learning.
   Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (<strong>S&P</strong>)</em><br/>
   May 2023. <a href="/data/2202.05470.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
-<!--
+
   <li><p><strong>Is It Overkill? Analyzing Feature-Space Concept Drift in Malware Detectors</strong><br/>
-  <strong>Zhi Chen</strong><br/>
-  Proceedings of <em>The 6th IEEE Deep Learning Security and Privacy Workshop (<strong>DLSP</strong>)</em><br/>
+  <strong>Zhi Chen</strong>, Zhenning Zhang, Zeliang Kan, Limin Yang, Jacopo Cortellazzi, Feargus Pendlebury, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang<br/>
+  Proceedings of <em>Deep Learning Security and Privacy Workshop (<strong>DLSP</strong>)</em>,
+in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</strong>)<br/>
   May 2023. <a href="/data/feature_space_DLS.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
--->
+
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
