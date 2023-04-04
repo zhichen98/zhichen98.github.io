@@ -20,7 +20,7 @@ My research interests lie in security and machine learning.
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016 - 2019
 <strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
 
-<div id="ct3" style="margin-top:-10px;"></div>
+<div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
 ### Experience
 
 |||
@@ -32,7 +32,7 @@ My research interests lie in security and machine learning.
 <strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
 <strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | May 2018 - Nov. 2018
 
-<div id="ct4" style="margin-top:-10px;"></div>
+<div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
@@ -108,7 +108,7 @@ in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</str
 </div>
 -->
 
-<div id="ct5"></div>
+<div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
 ### Honors & Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
