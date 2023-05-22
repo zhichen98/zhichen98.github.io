@@ -4,7 +4,7 @@
 
 ### About
 
-I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. I am also a member of <a href="https://spri.engr.illinois.edu/">Security and Privacy Research at Illinois (SPR@I)</a>.
+I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. <!--I am also a member of <a href="https://spri.engr.illinois.edu/">Security and Privacy Research at Illinois (SPR@I)</a>.-->
 
 I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a>, in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
 
@@ -25,11 +25,9 @@ My research interests lie in security and machine learning.
 
 |||
 :---- | ----:
-<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | May 2021 - Present
-<strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2020
-<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | Jan. 2019 - Aug. 2020
-<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
-<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | May 2018 - Nov. 2018
+<strong>University of Illinois at Urbana-Champaign</strong><br/>Research Assistant | Jan 2021 - Present
+<strong>University of Illinois at Urbana-Champaign</strong><br/>Teaching Assistant | Aug 2020 - Present
+<strong>University of California, Berkeley</strong><br/>Research Assistant | May 2018 - Aug 2020
 
 <div id="ct4" style="margin-top:-10px;"></div>
 ### Publications & Technical Report
