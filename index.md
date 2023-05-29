@@ -8,7 +8,7 @@ I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> 
 
 I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a>, in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
 
-My research interests lie in security and machine learning.
+My research interests lie in concept drift in machine learning models.
 
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Education
