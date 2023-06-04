@@ -30,9 +30,28 @@ My research interests lie in concept drift in machine learning models.
 <strong>University of California, Berkeley</strong><br/>Research Assistant | May 2018 - Aug 2020
 
 <div id="ct4" style="margin-top:-10px;"></div>
-### Publications & Technical Report
+### Publications
 
 <ul style="list-style-type:disc;margin-left:-22px;">
+  <li><p>Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang. Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers. Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (S&P),</em> CA, May 2023. <a href="/data/Jigsaw.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p>Zhi Chen, Zhenning Zhang, Zeliang Kan, Limin Yang, Jacopo Cortellazzi, Feargus Pendlebury, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang. Is It Overkill? Analyzing Feature-Space Concept Drift in Malware Detectors. Proceedings of <em>The 6th Deep Learning Security and Privacy Workshop (DLSP),</em> in conjunction with <em>The 44th IEEE Symposium on Security and Privacy (IEEE SP),</em> San Francisco, CA, May 2023. <a href="/data/feature-drift.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p>Jinyin Chen, Jian Zhang, Zhi Chen, Min Du, Qi Xuan. Time-aware Gradient Attack on Dynamic Network Link Prediction. Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (TKDE),</em> February 2023. <a href="/data/TKDE2023-TGA.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p>Jiajun Zhou*, Zhi Chen*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan. RobustECD: Enhancement of Network Structure for Robust Community Detection. Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (TKDE),</em> January 2023. (* indicates equal contribution) <a href="/data/TKDE2023-ECD.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p>Zhi Chen. NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset. <em>Technical Report No. UCB/EECS-2020-55,</em> EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+  <li><p>Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, Dawn Song. Lifelong Anomaly Detection Through Unlearning. Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (CCS),</em> London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li>
+
+<!--
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
@@ -56,7 +75,7 @@ My research interests lie in concept drift in machine learning models.
   Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em><br/>
   London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
-
+-->
 </ul>
 <!--
 <div>
