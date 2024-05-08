@@ -34,13 +34,13 @@ My research interests lie in security and machine learning.
 
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
 ### Publications
-
+(* indicates equal contribution)
 <ul style="list-style-type:disc;margin-left:-22px;">
 
   <li><p><strong>True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center</strong><br/>
   Limin Yang*, <strong>Zhi Chen</strong>*, Chenkai Wang, Zhenning Zhang, Sushruth Booma, Phuong Cao, Constantin Adam, Alex Withers, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Gang Wang<br/>
   Proceedings of <em>The 33rd USENIX Security Symposium (<strong>USENIX</strong> Security)</em><br/>
-  Philadelphia, PA, August 2024.(* indicates equal contribution)</p>
+  Philadelphia, PA, August 2024.</p>
   </li>
 
   <li><p><strong>Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers</strong><br/>
@@ -65,7 +65,7 @@ in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</str
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
   Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  January 2023. (* indicates equal contribution) <a href="/data/TKDE2023-ECD.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  January 2023. <a href="/data/TKDE2023-ECD.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
