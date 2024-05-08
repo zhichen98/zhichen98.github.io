@@ -4,11 +4,11 @@
 
 ### About
 
-I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. <!--I am also a member of <a href="https://spri.engr.illinois.edu/">Security and Privacy Research at Illinois (SPR@I)</a>.-->
+I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="http://gangw.cs.illinois.edu/">Gang Wang</a>. I am also a member of <a href="https://spri.engr.illinois.edu/">Security and Privacy Research at Illinois (SPR@I)</a>.
 
 I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a>, in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
 
-My research interests lie in concept drift in machine learning models.
+My research interests lie in security and machine learning.
 
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Education
@@ -20,48 +20,45 @@ My research interests lie in concept drift in machine learning models.
 <strong>University of California, Berkeley</strong>, Berkeley, CA.<br/>Bachelor of Science, Electrical Engineering and Computer Sciences | 2016 - 2019
 <strong>Duke University</strong>, Durham, NC.<br/>Summer Session, Economics: Game Theory | 2015 - 2015
 
-<div id="ct3" style="margin-top:-10px;"></div>
+<div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
 ### Experience
 
 |||
 :---- | ----:
-<strong>University of Illinois at Urbana-Champaign</strong><br/>Research Assistant | Jan 2021 - Present
-<strong>University of Illinois at Urbana-Champaign</strong><br/>Teaching Assistant | Aug 2020 - Present
-<strong>University of California, Berkeley</strong><br/>Research Assistant | May 2018 - Aug 2020
+<strong>CS 463: Computer Security Ⅱ</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2023
+<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | Spring 2021 - Present
+<strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2020
+<strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | Jan. 2019 - Aug. 2020
+<strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
+<strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | May 2018 - Nov. 2018
 
-<div id="ct4" style="margin-top:-10px;"></div>
-### Publications
+<div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
+### Publications & Technical Report
 
 <ul style="list-style-type:disc;margin-left:-22px;">
-  <li><p>Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang. Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers. Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (S&P),</em> CA, May 2023. <a href="/data/Jigsaw.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  <li><p><strong>Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers</strong><br/>
+  Limin Yang, <strong>Zhi Chen</strong>, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang<br/>
+  Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (<strong>S&P</strong>)</em><br/>
+  San Francisco, CA, May 2023. <a href="/data/2202.05470.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
-  <li><p>Zhi Chen, Zhenning Zhang, Zeliang Kan, Limin Yang, Jacopo Cortellazzi, Feargus Pendlebury, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang. Is It Overkill? Analyzing Feature-Space Concept Drift in Malware Detectors. Proceedings of <em>The 6th Deep Learning Security and Privacy Workshop (DLSP),</em> in conjunction with <em>The 44th IEEE Symposium on Security and Privacy (IEEE SP),</em> San Francisco, CA, May 2023. <a href="/data/feature-drift.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  <li><p><strong>Is It Overkill? Analyzing Feature-Space Concept Drift in Malware Detectors</strong><br/>
+  <strong>Zhi Chen</strong>, Zhenning Zhang, Zeliang Kan, Limin Yang, Jacopo Cortellazzi, Feargus Pendlebury, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang<br/>
+  Proceedings of <em>The 6th Deep Learning Security and Privacy Workshop (<strong>DLSP</strong>)</em>,
+in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</strong>)<br/>
+  San Francisco, CA, May 2023. <a href="/data/feature_space_DLS.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
-  <li><p>Jinyin Chen, Jian Zhang, Zhi Chen, Min Du, Qi Xuan. Time-aware Gradient Attack on Dynamic Network Link Prediction. Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (TKDE),</em> February 2023. <a href="/data/TKDE2023-TGA.pdf" class="btn btn-primary btn-xs">PDF</a></p>
-  </li>
-
-  <li><p>Jiajun Zhou*, Zhi Chen*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan. RobustECD: Enhancement of Network Structure for Robust Community Detection. Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (TKDE),</em> January 2023. (* indicates equal contribution) <a href="/data/TKDE2023-ECD.pdf" class="btn btn-primary btn-xs">PDF</a></p>
-  </li>
-
-  <li><p>Zhi Chen. NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset. <em>Technical Report No. UCB/EECS-2020-55,</em> EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></p>
-  </li>
-
-  <li><p>Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, Dawn Song. Lifelong Anomaly Detection Through Unlearning. Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (CCS),</em> London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></p>
-  </li>
-
-<!--
   <li><p><strong>Time-aware Gradient Attack on Dynamic Network Link Prediction</strong><br/>
   Jinyin Chen, Jian Zhang, <strong>Zhi Chen</strong>, Min Du, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  September 2021. <a href="/data/Time-aware_Gradient_Attack_on_Dynamic_Network_Link_Prediction.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  February 2023. <a href="/data/TKDE2023-TGA.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
   <li><p><strong>RobustECD: Enhancement of Network Structure for Robust Community Detection</strong><br/>
   Jiajun Zhou*, <strong>Zhi Chen</strong>*, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan<br/>
   Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</em><br/>
-  June 2021. (* indicates equal contribution) <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">Preprint</a></p>
+  January 2023. (* indicates equal contribution) <a href="/data/TKDE2023-ECD.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
   <li><p><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong><br/>
@@ -75,7 +72,7 @@ My research interests lie in concept drift in machine learning models.
   Proceedings of <em>The 26th ACM Conference on Computer and Communications Security (<strong>CCS</strong>)</em><br/>
   London, UK, November 2019. <a href="/data/3319535.3363226.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
--->
+
 </ul>
 <!--
 <div>
@@ -111,7 +108,7 @@ My research interests lie in concept drift in machine learning models.
 </div>
 -->
 
-<div id="ct5"></div>
+<div id="ct5" style="padding-top:55px;margin-top:-55px;"></div>
 ### Honors & Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
