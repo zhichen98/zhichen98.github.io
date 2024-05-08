@@ -33,14 +33,14 @@ My research interests lie in security and machine learning.
 <strong>Berkeley Artificial Intelligence Research Lab</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | May 2018 - Nov. 2018
 
 <div id="ct4" style="padding-top:55px;margin-top:-55px;"></div>
-### Publications & Technical Report
+### Publications
 
 <ul style="list-style-type:disc;margin-left:-22px;">
 
   <li><p><strong>True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center</strong><br/>
-  Limin Yang, <strong>Zhi Chen</strong>, Chenkai Wang, Zhenning Zhang, Sushruth Booma, Phuong Cao, Constantin Adam, Alex Withers, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Gang Wang<br/>
+  Limin Yang*, <strong>Zhi Chen</strong>*, Chenkai Wang, Zhenning Zhang, Sushruth Booma, Phuong Cao, Constantin Adam, Alex Withers, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Gang Wang<br/>
   Proceedings of <em>The 33rd USENIX Security Symposium (<strong>USENIX</strong> Security)</em><br/>
-  Philadelphia, PA, August 2024.</p>
+  Philadelphia, PA, August 2024.(* indicates equal contribution)</p>
   </li>
 
   <li><p><strong>Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers</strong><br/>
