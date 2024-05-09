@@ -39,13 +39,13 @@ My research interests lie in security and machine learning.
 
   <li><p><strong>True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center</strong><br/>
   Limin Yang*, <strong>Zhi Chen</strong>*, Chenkai Wang, Zhenning Zhang, Sushruth Booma, Phuong Cao, Constantin Adam, Alex Withers, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Gang Wang<br/>
-  Proceedings of <em>The 33rd USENIX Security Symposium (<strong>USENIX</strong> Security)</em><br/>
+  Proceedings of <em>The 33rd USENIX Security Symposium (<strong>USENIX Security</strong>)</em><br/>
   Philadelphia, PA, August 2024.</p>
   </li>
 
   <li><p><strong>Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers</strong><br/>
   Limin Yang, <strong>Zhi Chen</strong>, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang<br/>
-  Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (<strong>S&P</strong>)</em><br/>
+  Proceedings of <em>The 44th IEEE Symposium on Security and Privacy (<strong>IEEE SP</strong>)</em><br/>
   San Francisco, CA, May 2023. <a href="/data/2202.05470.pdf" class="btn btn-primary btn-xs">PDF</a></p>
   </li>
 
