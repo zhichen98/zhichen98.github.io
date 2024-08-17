@@ -119,6 +119,7 @@ in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</str
 ### Honors & Awards
 
 <ul style="list-style-type:disc;margin-left:-22px;">
+  <li>USENIX Security Student Grant’24</li>
   <li>B.S. Honors, <em>UC Berkeley</em> (May 2019)</li>
   <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May 2018)</li>
   <li>Dean's List, <em>College of Engineering, UC Berkeley</em> (May 2017)</li>
