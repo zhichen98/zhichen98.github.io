@@ -36,8 +36,12 @@ My research interests lie in AI Security and Data-driven Security.
 ### Publications
 (* indicates equal contribution)
 <ul style="list-style-type:disc;margin-left:-22px;">
+  <li><p><strong>VideoEraser: Concept Erasure in Text-to-Video Diffusion Models</strong><br/>
+  Naen Xu, Jinghuai Zhang, Changjiang Li, <strong>Zhi Chen</strong>, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji<br/>
+  Proceedings of  <em>The 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)</em><br/>Suzhou, China, November 2025. <a href="/data/2508.15314v2.pdf" class="btn btn-primary btn-xs">PDF</a></p>
+  </li> 
 
-  <li><p><strong>True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center</strong><br/>
+ <li><p><strong>True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center</strong><br/>
   Limin Yang*, <strong>Zhi Chen</strong>*, Chenkai Wang, Zhenning Zhang, Sushruth Booma, Phuong Cao, Constantin Adam, Alex Withers, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Gang Wang<br/>
   Proceedings of <em>The 33rd USENIX Security Symposium (<strong>USENIX Security</strong>)</em><br/>
   Philadelphia, PA, August 2024. <a href="/data/usenixsecurity24.pdf" class="btn btn-primary btn-xs">PDF</a></p>
@@ -90,14 +94,14 @@ in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</str
         <li>Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)</em></li>
         <li>June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
-
+    
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong></li>
         <li><strong>Zhi Chen</strong></li>
         <li>Technical Report No. UCB/EECS-2020-55</li>
         <li>EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
-
+    
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
