@@ -8,7 +8,7 @@ I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> 
 
 I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a>, in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
 
-My research interests lie in AI Security and Data-driven Security.
+My research interests lie in AI Security, Data-driven Security, LLM Security.
 
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Education
@@ -23,10 +23,10 @@ My research interests lie in AI Security and Data-driven Security.
 <div id="ct3" style="padding-top:55px;margin-top:-55px;"></div>
 ### Experience
 
-|||
+||
 :---- | ----:
 <strong>CS 463: Computer Security Ⅱ</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2023
-<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | Spring 2021 - Present
+<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | Jan. 2021 - Present 
 <strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2020
 <strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | Jan. 2019 - Aug. 2020
 <strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
