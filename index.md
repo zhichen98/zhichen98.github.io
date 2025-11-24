@@ -8,7 +8,7 @@ I am a Ph.D. student in <a href="https://cs.illinois.edu/">Computer Science</a> 
 
 I received both my B.S. and M.S. in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> from <a href="https://www.berkeley.edu/">University of California, Berkeley</a>, in 2019 and 2020, respectively. I was very fortunate to have Professor <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Dawn Song</a> as my advisor during my graduate years.
 
-My research interests lie in AI Security, Data-driven Security and LLM Security.
+My research interests lie in AI Security, Data-driven Security, and LLM Security.
 
 <div id="ct2" style="padding-top:55px;margin-top:-55px;"></div>
 ### Education
@@ -26,7 +26,7 @@ My research interests lie in AI Security, Data-driven Security and LLM Security.
 ||
 :---- | ----:
 <strong>CS 463: Computer Security Ⅱ</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2023
-<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | Jan. 2021 - Present 
+<strong>Security and Privacy Research at Illinois</strong>, UIUC, Urbana, IL.<br/>Research Assistant | Jan. 2021 - Present
 <strong>CS 445: Computational Photography</strong>, UIUC, Urbana, IL.<br/>Teaching Assistant | Fall 2020
 <strong>Center for Long-Term Cybersecurity</strong>, UC Berkeley, Berkeley, CA.<br/>Research Assistant | Jan. 2019 - Aug. 2020
 <strong>Alibaba DAMO Academy</strong>, Hangzhou, China.<br/>Research Intern | Dec. 2018 - Jan. 2019
@@ -39,7 +39,7 @@ My research interests lie in AI Security, Data-driven Security and LLM Security.
   <li><p><strong>VideoEraser: Concept Erasure in Text-to-Video Diffusion Models</strong><br/>
   Naen Xu, Jinghuai Zhang, Changjiang Li, <strong>Zhi Chen</strong>, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji<br/>
   Proceedings of  <em>The 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)</em><br/>Suzhou, China, November 2025. <a href="/data/2508.15314v2.pdf" class="btn btn-primary btn-xs">PDF</a></p>
-  </li> 
+  </li>
 
  <li><p><strong>True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center</strong><br/>
   Limin Yang*, <strong>Zhi Chen</strong>*, Chenkai Wang, Zhenning Zhang, Sushruth Booma, Phuong Cao, Constantin Adam, Alex Withers, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Gang Wang<br/>
@@ -94,14 +94,14 @@ in conjunction with IEEE Symposium on Security and Privacy (<strong>IEEE SP</str
         <li>Proceedings of <em>The IEEE Transactions on Knowledge and Data Engineering (<strong>Early Access</strong>)</em></li>
         <li>June 2021. <a href="/data/1911.01670v4.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
-    
+
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset</strong></li>
         <li><strong>Zhi Chen</strong></li>
         <li>Technical Report No. UCB/EECS-2020-55</li>
         <li>EECS Department, University of California, Berkeley, May 2020. <a href="/data/EECS-2020-55.pdf" class="btn btn-primary btn-xs">PDF</a></li>
       </ul>
-    
+
       <ul style="list-style-type:none;padding-left: 0px;">
         <li><strong>Lifelong Anomaly Detection Through Unlearning</strong></li>
         <li>Min Du, <strong>Zhi Chen</strong>, Chang Liu, Rajvardhan Oak, Dawn Song</li>
